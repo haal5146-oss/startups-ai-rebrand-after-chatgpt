@@ -12,7 +12,7 @@ How many of the 2021 Forbes Cloud 100 startups added "AI" to their homepages bet
 
 **When.** Collected on November 8, 2026, starting at 19:39 UTC. Every request sends a User-Agent that identifies me and waits 5 seconds after it.
 
-**How many records.** 100 companies × 28 quarters (Q1 2019 to Q4 2025) = 2,800 company-quarters. 2,683 of them have a capture in the archive; 117 don't, mostly because the Internet Archive refuses requests for three of the sites (Toast, Klaviyo and Miro, status 403) and because Loom's later domain is blocked too. Collection runs in two passes: Q4 of every year first, then the other quarters. `analysis.ipynb` prints how many pages had been fetched when it last ran.
+**How many records.** 100 companies × 28 quarters (Q1 2019 to Q4 2025) = 2,800 company-quarters. 2,683 of them have a capture in the archive; 117 don't, mostly because the Internet Archive refuses requests for three of the sites (Toast, Klaviyo and Miro, status 403) and because Loom's later domain is blocked too. Collection runs in two passes: Q4 of every year first, then the other quarters. The Q4 pass finished at 21:33 UTC with 669 pages requested: 659 downloaded, 642 usable (`ok`) and 17 with too little text (`thin_text`). `analysis.ipynb` prints how many pages had been fetched when it last ran.
 
 **What the repository holds.** `data/companies.csv` (all 100 companies), `data/sample_homepages_clean.csv` (every quarter for the ten highest-ranked companies) and `data/data_dictionary.md` (every field and what it means).
 

@@ -1,0 +1,103 @@
+rank,company,slug,industry,homepage,homepage_source
+1,Stripe,stripe,Payments software,stripe.com,forbes
+2,Databricks,databricks,AI-focused data platform,databricks.com,forbes
+3,Canva,canva,Design software,canva.com,added
+4,HashiCorp,hashicorp,Infrastructure automation,hashicorp.com,forbes
+5,Toast,toast,Restaurant software,pos.toasttab.com,forbes
+6,Plaid,plaid,Open banking platform,plaid.com,forbes
+7,Figma,figma,Design software,figma.com,forbes
+8,ServiceTitan,servicetitan,Contractor software,servicetitan.com,forbes
+9,Checkout.com,checkout-com,Payments platform,checkout.com,added
+10,Freshworks,freshworks,Customer engagement,freshworks.com,forbes
+11,GitLab,gitlab,DevOps software,gitlab.com,forbes
+12,Attentive,attentive,SMS marketing,attentivemobile.com,added
+13,Zapier,zapier,Workflow automation,zapier.com,forbes
+14,Mailchimp,mailchimp,Marketing platform,mailchimp.com,forbes
+15,Klaviyo,klaviyo,Marketing automation platform,klaviyo.com,forbes
+16,Airtable,airtable,Software creation,airtable.com,forbes
+17,Talkdesk,talkdesk,Contact center software,talkdesk.com,forbes
+18,Tanium,tanium,Cybersecurity systems management,tanium.com,forbes
+19,Samsara,samsara,Industrial IoT,samsara.com,forbes
+20,Celonis,celonis,Execution management,celonis.com,added
+21,Hopin,hopin,Virtual event platform,hopin.com,added
+22,Carta,carta,Equity management,carta.com,forbes
+23,Braze,braze,Customer engagement,braze.com,forbes
+24,Rubrik,rubrik,Data management,rubrik.com,forbes
+25,Gusto,gusto,"Payroll, benefits and HR",gusto.com,forbes
+26,OneTrust,onetrust,Compliance software,onetrust.com,forbes
+27,Netskope,netskope,Cloud security software,netskope.com,forbes
+28,Gong.io,gong-io,Revenue intelligence,gong.io,added
+29,Automation Anywhere,automation-anywhere,Robotic process automation,automationanywhere.com,forbes
+30,Guild Education,guild-education,Education platform,guildeducation.com,forbes
+31,Fivetran,fivetran,Automated data integration,fivetran.com,added
+32,Scale AI,scale-ai,AI infrastructure,scale.com,added
+33,Calendly,calendly,Automated scheduling platform,calendly.com,added
+34,DataRobot,datarobot,Enterprise AI platform,datarobot.com,added
+35,MessageBird,messagebird,Omnichannel Communications,messagebird.com,added
+36,Miro,miro,Online collaborative whiteboard,miro.com,forbes
+37,Amplitude,amplitude,Digital optimization system,amplitude.com,forbes
+38,Outreach,outreach,Sales intelligence and engagement,outreach.io,forbes
+39,Snyk,snyk,Developer security,snyk.io,added
+40,Collibra,collibra,Data intelligence,collibra.com,forbes
+41,Cohesity,cohesity,Data management platform,cohesity.com,added
+42,ThoughtSpot,thoughtspot,Analytics cloud platform,thoughtspot.com,forbes
+43,Grammarly,grammarly,AI-powered communication assistant,grammarly.com,forbes
+44,Icertis,icertis,Contract intelligence,icertis.com,added
+45,Notion,notion,Collaborative workspace software,notion.so,added
+46,Highspot,highspot,Sales enablement software,highspot.com,forbes
+47,LaunchDarkly,launchdarkly,Software feature management,launchdarkly.com,added
+48,Forter,forter,Ecommerce fraud detection,forter.com,forbes
+49,Checkr,checkr,Background checks,checkr.com,forbes
+50,Yardi,yardi,Real estate software,yardi.com,forbes
+51,Yotpo,yotpo,Ecommerce marketing platform,yotpo.com,forbes
+52,InVision,invision,Design software,invisionapp.com,forbes
+53,Cedar,cedar,Healthcare fintech platform,cedar.com,added
+54,Postman,postman,API platform,getpostman.com,forbes
+55,Lucid,lucid,Visual collaboration software,lucidchart.com,added
+56,Automattic,automattic,Publishing and ecommerce software,automattic.com,forbes
+57,Razorpay,razorpay,Financial solutions software,razorpay.com,added
+58,Airwallex,airwallex,Cross-border digital payments,airwallex.com,added
+59,Pendo,pendo,Product adoption software,pendo.io,forbes
+60,Intercom,intercom,Customer communications platform,intercom.com,forbes
+61,OutSystems,outsystems,App development software,outsystems.com,added
+62,Benchling,benchling,Biotech R&D cloud,benchling.com,forbes
+63,Weave,weave,Customer communications platform,getweave.com,added
+64,Chainalysis,chainalysis,Blockchain analysis,chainalysis.com,forbes
+65,Cockroach Labs,cockroach-labs,Cloud-based distributed database,cockroachlabs.com,added
+66,HighRadius,highradius,Working capital optimization,highradius.com,added
+67,MX,mx,Financial data platform,mx.com,added
+68,Kong,kong,Cloud connectivity platform,konghq.com,added
+69,Webflow,webflow,Visual software development,webflow.com,forbes
+70,Cloudinary,cloudinary,Media experience management,cloudinary.com,forbes
+71,Contentful,contentful,Digital content platform,contentful.com,added
+72,Exabeam,exabeam,"Security analytics, automation",exabeam.com,forbes
+73,Podium,podium,"Communications and payments platform
+
+",podium.com,forbes
+74,KeepTruckin,keeptruckin,Fleet operations software,keeptruckin.com,forbes
+75,Rapyd,rapyd,Fintech software,rapyd.net,added
+76,Dataminr,dataminr,Real-time information discovery,dataminr.com,forbes
+77,Mambu,mambu,Cloud banking platform,mambu.com,added
+78,AvidXchange,avidxchange,Accounts payable software,avidxchange.com,forbes
+79,TripActions,tripactions,Travel and spend management,tripactions.com,added
+80,Grafana Labs,grafana-labs,Cloud native observability,grafana.com,added
+81,Riskified,riskified,Bussiness analytics,riskified.com,added
+82,Sisense,sisense,Bussiness analytics,sisense.com,forbes
+83,ActiveCampaign,activecampaign,Customer experience automation,activecampaign.com,added
+84,Flutterwave,flutterwave,Payments software,flutterwave.com,added
+85,DISCO,disco,Legal technology,csdisco.com,forbes
+86,Entrata,entrata,Property management software,entrata.com,added
+87,Workato,workato,Enterprise automation platform,workato.com,added
+88,BigID,bigid,Data management platform,bigid.com,added
+89,FanRuan Software,fanruan-software,Big data and analytics,fanruan.com,added
+90,OwnBackup,ownbackup,SaaS data protection,ownbackup.com,added
+91,Socure,socure,Digital identify verification,socure.com,added
+92,Jushuitan (JST),jushuitan-jst,E-commerce SaaS ERP,jushuitan.com,added
+93,BrowserStack,browserstack,Software testing platform,browserstack.com,forbes
+94,Shippo,shippo,Ecommerce fulfillment software,goshippo.com,added
+95,VTS,vts,Real estate software,vts.com,added
+96,Loom,loom,Workplace video messaging,useloom.com,added
+97,6sense,6sense,Account engagement platform,6sense.com,added
+98,Papaya Global,papaya-global,Global payroll management,papayaglobal.com,added
+99,Culture Amp,culture-amp,Employee experience platform,cultureamp.com,added
+100,Axonius,axonius,Cybersecurity asset management,axonius.com,added

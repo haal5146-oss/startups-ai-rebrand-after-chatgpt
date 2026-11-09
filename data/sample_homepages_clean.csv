@@ -1,115 +1,115 @@
 rank,company,homepage,quarter,status,capture_date,final_host,redirected,html_lang,title,text_chars,ai_count,artificial_intelligence_count,machine_learning_count,generative_count,ai_terms_total,mentions_ai
-1,Stripe,stripe.com,2019Q1,not_fetched,2019-01-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2019Q2,not_fetched,2019-04-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2019Q3,not_fetched,2019-07-03,,False,,,,,,,,,
+1,Stripe,stripe.com,2019Q1,ok,2019-01-01,stripe.com,False,en,Stripe - Online payment processing for internet businesses,4089.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2019Q2,ok,2019-04-01,stripe.com,False,en,Online payment processing for internet businesses - Stripe,4195.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2019Q3,ok,2019-07-03,stripe.com,False,en,Online payment processing for internet businesses - Stripe,4248.0,0.0,0.0,1.0,0.0,1.0,True
 1,Stripe,stripe.com,2019Q4,ok,2019-10-07,stripe.com,False,en,Online payment processing for internet businesses - Stripe,4474.0,0.0,0.0,1.0,0.0,1.0,True
-1,Stripe,stripe.com,2020Q1,not_fetched,2020-01-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2020Q2,not_fetched,2020-04-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2020Q3,not_fetched,2020-07-01,,False,,,,,,,,,
+1,Stripe,stripe.com,2020Q1,ok,2020-01-01,stripe.com,False,en,Online payment processing for internet businesses - Stripe,4458.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2020Q2,ok,2020-04-01,stripe.com,False,en,Online payment processing for internet businesses - Stripe,4510.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2020Q3,ok,2020-07-01,stripe.com,False,en,Online payment processing for internet businesses - Stripe,4700.0,0.0,0.0,0.0,0.0,0.0,False
 1,Stripe,stripe.com,2020Q4,ok,2020-10-03,stripe.com,False,en-us,Online payment processing for internet businesses - Stripe,8589.0,0.0,0.0,1.0,0.0,1.0,True
-1,Stripe,stripe.com,2021Q1,not_fetched,2021-01-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2021Q2,not_fetched,2021-04-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2021Q3,not_fetched,2021-07-02,,False,,,,,,,,,
+1,Stripe,stripe.com,2021Q1,ok,2021-01-01,stripe.com,False,en-us,Online payment processing for internet businesses - Stripe,9065.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2021Q2,ok,2021-04-01,stripe.com,False,en-us,Online payment processing for internet businesses - Stripe,9128.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2021Q3,ok,2021-07-02,stripe.com,False,en-us,Online payment processing for internet businesses - Stripe,9577.0,0.0,0.0,1.0,0.0,1.0,True
 1,Stripe,stripe.com,2021Q4,ok,2021-10-01,stripe.com,False,en-us,Online payment processing for internet businesses - Stripe,9687.0,0.0,0.0,1.0,0.0,1.0,True
-1,Stripe,stripe.com,2022Q1,not_fetched,2022-01-02,,False,,,,,,,,,
-1,Stripe,stripe.com,2022Q2,not_fetched,2022-04-07,,False,,,,,,,,,
-1,Stripe,stripe.com,2022Q3,not_fetched,2022-07-02,,False,,,,,,,,,
+1,Stripe,stripe.com,2022Q1,ok,2022-01-02,stripe.com,False,en-us,Online payment processing for internet businesses - Stripe,9994.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2022Q2,ok,2022-04-07,stripe.com,False,en-us,Online payment processing for internet businesses - Stripe,9662.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2022Q3,ok,2022-07-02,stripe.com,False,en-us,Stripe | Payment Processing Platform for the Internet,9911.0,0.0,0.0,1.0,0.0,1.0,True
 1,Stripe,stripe.com,2022Q4,ok,2022-10-01,stripe.com,False,en-us,Stripe | Payment Processing Platform for the Internet,10217.0,0.0,0.0,1.0,0.0,1.0,True
-1,Stripe,stripe.com,2023Q1,not_fetched,2023-01-03,,False,,,,,,,,,
-1,Stripe,stripe.com,2023Q2,not_fetched,2023-04-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2023Q3,not_fetched,2023-07-01,,False,,,,,,,,,
+1,Stripe,stripe.com,2023Q1,ok,2023-01-03,stripe.com,False,en-us,Stripe | Payment Processing Platform for the Internet,10848.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2023Q2,ok,2023-04-01,stripe.com,False,en-us,Stripe | Payment Processing Platform for the Internet,11911.0,0.0,0.0,1.0,0.0,1.0,True
+1,Stripe,stripe.com,2023Q3,ok,2023-07-01,stripe.com,False,en-us,Stripe | Payment Processing Platform for the Internet,14738.0,0.0,0.0,1.0,0.0,1.0,True
 1,Stripe,stripe.com,2023Q4,ok,2023-10-01,stripe.com,False,en-us,Stripe | Payment Processing Platform for the Internet,16686.0,0.0,0.0,0.0,0.0,0.0,False
-1,Stripe,stripe.com,2024Q1,not_fetched,2024-01-05,,False,,,,,,,,,
-1,Stripe,stripe.com,2024Q2,not_fetched,2024-04-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2024Q3,not_fetched,2024-07-01,,False,,,,,,,,,
+1,Stripe,stripe.com,2024Q1,ok,2024-01-05,stripe.com,False,en-us,Stripe | Financial Infrastructure for the Internet,16795.0,0.0,0.0,0.0,0.0,0.0,False
+1,Stripe,stripe.com,2024Q2,ok,2024-04-01,stripe.com,False,en-US,Stripe | Financial Infrastructure for the Internet,17226.0,0.0,0.0,0.0,0.0,0.0,False
+1,Stripe,stripe.com,2024Q3,ok,2024-07-01,stripe.com,False,en-US,Stripe | Financial Infrastructure to Grow Your Revenue,16514.0,0.0,0.0,0.0,0.0,0.0,False
 1,Stripe,stripe.com,2024Q4,ok,2024-10-04,stripe.com,False,en-US,Stripe | Financial Infrastructure to Grow Your Revenue,17113.0,0.0,0.0,0.0,0.0,0.0,False
-1,Stripe,stripe.com,2025Q1,not_fetched,2025-01-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2025Q2,not_fetched,2025-04-01,,False,,,,,,,,,
-1,Stripe,stripe.com,2025Q3,not_fetched,2025-07-02,,False,,,,,,,,,
+1,Stripe,stripe.com,2025Q1,ok,2025-01-01,stripe.com,False,en-US,Stripe | Financial Infrastructure to Grow Your Revenue,17125.0,0.0,0.0,0.0,0.0,0.0,False
+1,Stripe,stripe.com,2025Q2,ok,2025-04-01,stripe.com,False,en-US,Stripe | Financial Infrastructure to Grow Your Revenue,17119.0,0.0,0.0,0.0,0.0,0.0,False
+1,Stripe,stripe.com,2025Q3,ok,2025-07-02,stripe.com,False,en-US,Stripe | Financial Infrastructure to Grow Your Revenue,18792.0,11.0,0.0,0.0,0.0,11.0,True
 1,Stripe,stripe.com,2025Q4,ok,2025-10-01,stripe.com,False,en-US,Stripe | Financial Infrastructure to Grow Your Revenue,19270.0,11.0,0.0,0.0,0.0,11.0,True
-2,Databricks,databricks.com,2019Q1,not_fetched,2019-01-05,,False,,,,,,,,,
-2,Databricks,databricks.com,2019Q2,not_fetched,2019-04-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2019Q3,not_fetched,2019-07-02,,False,,,,,,,,,
+2,Databricks,databricks.com,2019Q1,ok,2019-01-05,databricks.com,False,en-US,Databricks - Making Big Data Simple,7583.0,17.0,0.0,5.0,0.0,22.0,True
+2,Databricks,databricks.com,2019Q2,ok,2019-04-01,databricks.com,False,en-US,Databricks - Making Big Data Simple,6814.0,11.0,0.0,5.0,0.0,16.0,True
+2,Databricks,databricks.com,2019Q3,ok,2019-07-02,databricks.com,False,en-US,Databricks - Unified Analytics,6993.0,12.0,0.0,5.0,0.0,17.0,True
 2,Databricks,databricks.com,2019Q4,ok,2019-10-02,databricks.com,False,en-US,Databricks - Unified Analytics,7302.0,14.0,0.0,3.0,0.0,17.0,True
-2,Databricks,databricks.com,2020Q1,not_fetched,2020-01-02,,False,,,,,,,,,
-2,Databricks,databricks.com,2020Q2,not_fetched,2020-04-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2020Q3,not_fetched,2020-07-06,,False,,,,,,,,,
+2,Databricks,databricks.com,2020Q1,ok,2020-01-02,databricks.com,False,en-US,Databricks - Unified Data Analytics,7141.0,4.0,0.0,5.0,0.0,9.0,True
+2,Databricks,databricks.com,2020Q2,ok,2020-04-01,databricks.com,False,en-US,Databricks - Unified Data Analytics,7513.0,6.0,0.0,8.0,0.0,14.0,True
+2,Databricks,databricks.com,2020Q3,ok,2020-07-06,databricks.com,False,en-US,Databricks - Unified Data Analytics,8112.0,9.0,0.0,7.0,0.0,16.0,True
 2,Databricks,databricks.com,2020Q4,ok,2020-10-01,databricks.com,False,en-US,Databricks - Unified Data Analytics,8129.0,8.0,0.0,7.0,0.0,15.0,True
-2,Databricks,databricks.com,2021Q1,not_fetched,2021-01-03,,False,,,,,,,,,
-2,Databricks,databricks.com,2021Q2,not_fetched,2021-04-06,,False,,,,,,,,,
-2,Databricks,databricks.com,2021Q3,not_fetched,2021-07-06,,False,,,,,,,,,
+2,Databricks,databricks.com,2021Q1,ok,2021-01-03,databricks.com,False,en-US,Databricks - Unified Data Analytics,7926.0,11.0,0.0,5.0,0.0,16.0,True
+2,Databricks,databricks.com,2021Q2,ok,2021-04-06,databricks.com,False,en-US,Databricks - The Data and AI Company,5348.0,11.0,0.0,7.0,0.0,18.0,True
+2,Databricks,databricks.com,2021Q3,ok,2021-07-06,databricks.com,False,en-US,Databricks - The Data and AI Company,5664.0,11.0,0.0,4.0,0.0,15.0,True
 2,Databricks,databricks.com,2021Q4,ok,2021-10-03,databricks.com,False,en-US,Databricks - The Data and AI Company,5190.0,12.0,0.0,4.0,0.0,16.0,True
-2,Databricks,databricks.com,2022Q1,not_fetched,2022-01-07,,False,,,,,,,,,
-2,Databricks,databricks.com,2022Q2,not_fetched,2022-04-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2022Q3,not_fetched,2022-07-01,,False,,,,,,,,,
+2,Databricks,databricks.com,2022Q1,ok,2022-01-07,databricks.com,False,en-US,Databricks - The Data and AI Company,4918.0,6.0,0.0,9.0,0.0,15.0,True
+2,Databricks,databricks.com,2022Q2,ok,2022-04-01,databricks.com,False,en-US,Databricks - The Data and AI Company,4867.0,7.0,0.0,8.0,0.0,15.0,True
+2,Databricks,databricks.com,2022Q3,ok,2022-07-01,databricks.com,False,en-US,Data Lakehouse Architecture and AI Company - Databricks,5325.0,10.0,0.0,6.0,0.0,16.0,True
 2,Databricks,databricks.com,2022Q4,ok,2022-10-01,databricks.com,False,en-US,Data Lakehouse Architecture and AI Company - Databricks,4945.0,7.0,0.0,6.0,0.0,13.0,True
-2,Databricks,databricks.com,2023Q1,not_fetched,2023-01-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2023Q2,not_fetched,2023-04-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2023Q3,not_fetched,2023-07-01,,False,,,,,,,,,
+2,Databricks,databricks.com,2023Q1,ok,2023-01-01,databricks.com,False,en-US,Data Lakehouse Architecture and AI Company - Databricks,5670.0,12.0,0.0,6.0,0.0,18.0,True
+2,Databricks,databricks.com,2023Q2,ok,2023-04-01,databricks.com,False,en-US,Data Lakehouse Architecture and AI Company - Databricks,5484.0,11.0,0.0,5.0,0.0,16.0,True
+2,Databricks,databricks.com,2023Q3,ok,2023-07-01,databricks.com,False,en-US,Data Lakehouse Architecture and AI Company | Databricks,6160.0,17.0,0.0,5.0,2.0,24.0,True
 2,Databricks,databricks.com,2023Q4,ok,2023-10-02,databricks.com,False,en-US,Data Lakehouse Architecture and AI Company | Databricks,7628.0,28.0,1.0,5.0,2.0,36.0,True
-2,Databricks,databricks.com,2024Q1,not_fetched,2024-01-02,,False,,,,,,,,,
-2,Databricks,databricks.com,2024Q2,not_fetched,2024-04-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2024Q3,not_fetched,2024-07-01,,False,,,,,,,,,
+2,Databricks,databricks.com,2024Q1,ok,2024-01-02,databricks.com,False,en-US,The Data and AI Company — Databricks,9322.0,44.0,3.0,0.0,4.0,51.0,True
+2,Databricks,databricks.com,2024Q2,ok,2024-04-01,databricks.com,False,en-US,The Data and AI Company — Databricks,9915.0,41.0,3.0,0.0,2.0,46.0,True
+2,Databricks,databricks.com,2024Q3,ok,2024-07-01,databricks.com,False,en-US,The Data and AI Company — Databricks,9668.0,37.0,3.0,1.0,2.0,43.0,True
 2,Databricks,databricks.com,2024Q4,ok,2024-10-01,databricks.com,False,en-US,The Data and AI Company — Databricks,8470.0,33.0,3.0,1.0,2.0,39.0,True
-2,Databricks,databricks.com,2025Q1,not_fetched,2025-01-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2025Q2,not_fetched,2025-04-01,,False,,,,,,,,,
-2,Databricks,databricks.com,2025Q3,not_fetched,2025-07-01,,False,,,,,,,,,
+2,Databricks,databricks.com,2025Q1,ok,2025-01-01,databricks.com,False,en-US,The Data and AI Company — Databricks,8603.0,34.0,3.0,0.0,3.0,40.0,True
+2,Databricks,databricks.com,2025Q2,ok,2025-04-01,databricks.com,False,en-US,Databricks: Leading Data and AI Solutions for Enterprises,8431.0,36.0,3.0,0.0,2.0,41.0,True
+2,Databricks,databricks.com,2025Q3,ok,2025-07-01,databricks.com,False,en-US,Databricks: Leading Data and AI Solutions for Enterprises,8731.0,42.0,3.0,0.0,2.0,47.0,True
 2,Databricks,databricks.com,2025Q4,ok,2025-10-01,databricks.com,False,en-US,Databricks: Leading Data and AI Solutions for Enterprises,10243.0,48.0,3.0,0.0,3.0,54.0,True
-3,Canva,canva.com,2019Q1,not_fetched,2019-01-01,,False,,,,,,,,,
-3,Canva,canva.com,2019Q2,not_fetched,2019-04-14,,False,,,,,,,,,
-3,Canva,canva.com,2019Q3,not_fetched,2019-07-01,,False,,,,,,,,,
+3,Canva,canva.com,2019Q1,thin_text,2019-01-01,canva.com,False,de-DE,Professionelle Designs für unterwegs – Canva,149.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2019Q2,ok,2019-04-14,canva.com,False,tr-TR,Ücretsiz İşbirliği Yapın ve Muhteşem Grafik Tasarımlar Oluşturun,737.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2019Q3,ok,2019-07-01,canva.com,False,en,Collaborate & Create Amazing Graphic Design for Free,866.0,0.0,0.0,0.0,0.0,0.0,False
 3,Canva,canva.com,2019Q4,ok,2019-10-01,canva.com,False,de-DE,Die Zusammenarbeit und das Erstellen von tollen Grafikdesigns ist kostenlos.,341.0,0.0,0.0,0.0,0.0,0.0,False
-3,Canva,canva.com,2020Q1,not_fetched,2020-01-01,,False,,,,,,,,,
-3,Canva,canva.com,2020Q2,not_fetched,2020-04-01,,False,,,,,,,,,
-3,Canva,canva.com,2020Q3,not_fetched,2020-07-01,,False,,,,,,,,,
+3,Canva,canva.com,2020Q1,ok,2020-01-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,379.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2020Q2,ok,2020-04-01,canva.com,False,en,Collaborate & Create Amazing Graphic Design for Free,736.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2020Q3,ok,2020-07-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,379.0,0.0,0.0,0.0,0.0,0.0,False
 3,Canva,canva.com,2020Q4,ok,2020-10-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,379.0,0.0,0.0,0.0,0.0,0.0,False
-3,Canva,canva.com,2021Q1,not_fetched,2021-01-01,,False,,,,,,,,,
-3,Canva,canva.com,2021Q2,not_fetched,2021-04-01,,False,,,,,,,,,
-3,Canva,canva.com,2021Q3,not_fetched,2021-07-01,,False,,,,,,,,,
+3,Canva,canva.com,2021Q1,ok,2021-01-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,379.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2021Q2,ok,2021-04-01,canva.com,False,en,Collaborate & Create Amazing Graphic Design for Free,5384.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2021Q3,ok,2021-07-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
 3,Canva,canva.com,2021Q4,ok,2021-10-01,canva.com,False,en,Collaborate & Create Amazing Graphic Design for Free,8351.0,0.0,0.0,0.0,0.0,0.0,False
-3,Canva,canva.com,2022Q1,not_fetched,2022-01-02,,False,,,,,,,,,
-3,Canva,canva.com,2022Q2,not_fetched,2022-04-01,,False,,,,,,,,,
-3,Canva,canva.com,2022Q3,not_fetched,2022-07-01,,False,,,,,,,,,
+3,Canva,canva.com,2022Q1,ok,2022-01-02,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2022Q2,ok,2022-04-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2022Q3,ok,2022-07-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
 3,Canva,canva.com,2022Q4,ok,2022-10-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
-3,Canva,canva.com,2023Q1,not_fetched,2023-01-01,,False,,,,,,,,,
-3,Canva,canva.com,2023Q2,not_fetched,2023-04-01,,False,,,,,,,,,
-3,Canva,canva.com,2023Q3,not_fetched,2023-07-01,,False,,,,,,,,,
+3,Canva,canva.com,2023Q1,ok,2023-01-01,canva.com,False,en,"Free Design Tool: Presentations, Video, Social Media | Canva",12035.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2023Q2,ok,2023-04-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2023Q3,ok,2023-07-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,502.0,0.0,0.0,0.0,0.0,0.0,False
 3,Canva,canva.com,2023Q4,ok,2023-10-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
-3,Canva,canva.com,2024Q1,not_fetched,2024-01-01,,False,,,,,,,,,
-3,Canva,canva.com,2024Q2,not_fetched,2024-04-01,,False,,,,,,,,,
-3,Canva,canva.com,2024Q3,not_fetched,2024-07-04,,False,,,,,,,,,
+3,Canva,canva.com,2024Q1,ok,2024-01-01,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2024Q2,ok,2024-04-01,canva.com,False,en,Canva: Visual Suite for Everyone,11695.0,6.0,0.0,0.0,0.0,6.0,True
+3,Canva,canva.com,2024Q3,ok,2024-07-04,canva.com,False,en,Canva: Visual Suite for Everyone,12104.0,8.0,0.0,0.0,0.0,8.0,True
 3,Canva,canva.com,2024Q4,ok,2024-10-02,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
-3,Canva,canva.com,2025Q1,not_fetched,2025-01-08,,False,,,,,,,,,
-3,Canva,canva.com,2025Q2,not_fetched,2025-04-01,,False,,,,,,,,,
-3,Canva,canva.com,2025Q3,not_fetched,2025-07-06,,False,,,,,,,,,
+3,Canva,canva.com,2025Q1,ok,2025-01-08,canva.com,False,en,Amazingly Simple Graphic Design Software – Canva,364.0,0.0,0.0,0.0,0.0,0.0,False
+3,Canva,canva.com,2025Q2,ok,2025-04-01,canva.com,False,en,Canva: Visual Suite for Everyone,12144.0,7.0,0.0,0.0,0.0,7.0,True
+3,Canva,canva.com,2025Q3,ok,2025-07-06,canva.com,False,en,Canva: Visual Suite for Everyone,10261.0,9.0,0.0,0.0,0.0,9.0,True
 3,Canva,canva.com,2025Q4,ok,2025-10-04,canva.com,False,en,Unsupported client – Canva,342.0,0.0,0.0,0.0,0.0,0.0,False
-4,HashiCorp,hashicorp.com,2019Q1,not_fetched,2019-01-05,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2019Q2,not_fetched,2019-04-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2019Q3,not_fetched,2019-07-11,,False,,,,,,,,,
+4,HashiCorp,hashicorp.com,2019Q1,ok,2019-01-05,hashicorp.com,False,,"HashiCorp: Multi-Cloud Management, Security, Automation",6812.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2019Q2,ok,2019-04-01,hashicorp.com,False,,"HashiCorp: Multi-Cloud Management, Security, Automation",6892.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2019Q3,ok,2019-07-11,hashicorp.com,False,,"HashiCorp: Multi-Cloud Management, Security, Automation",6988.0,0.0,0.0,0.0,0.0,0.0,False
 4,HashiCorp,hashicorp.com,2019Q4,ok,2019-10-16,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,4529.0,0.0,0.0,0.0,0.0,0.0,False
-4,HashiCorp,hashicorp.com,2020Q1,not_fetched,2020-01-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2020Q2,not_fetched,2020-04-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2020Q3,not_fetched,2020-07-07,,False,,,,,,,,,
+4,HashiCorp,hashicorp.com,2020Q1,ok,2020-01-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,4148.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2020Q2,ok,2020-04-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,4807.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2020Q3,ok,2020-07-07,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,4960.0,0.0,0.0,0.0,0.0,0.0,False
 4,HashiCorp,hashicorp.com,2020Q4,ok,2020-10-02,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,4953.0,0.0,0.0,0.0,0.0,0.0,False
-4,HashiCorp,hashicorp.com,2021Q1,not_fetched,2021-01-18,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2021Q2,not_fetched,2021-04-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2021Q3,not_fetched,2021-07-02,,False,,,,,,,,,
+4,HashiCorp,hashicorp.com,2021Q1,ok,2021-01-18,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5035.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2021Q2,ok,2021-04-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5233.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2021Q3,ok,2021-07-02,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5145.0,0.0,0.0,0.0,0.0,0.0,False
 4,HashiCorp,hashicorp.com,2021Q4,ok,2021-10-07,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,4866.0,0.0,0.0,0.0,0.0,0.0,False
-4,HashiCorp,hashicorp.com,2022Q1,not_fetched,2022-01-03,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2022Q2,not_fetched,2022-04-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2022Q3,not_fetched,2022-07-01,,False,,,,,,,,,
+4,HashiCorp,hashicorp.com,2022Q1,ok,2022-01-03,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,4924.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2022Q2,ok,2022-04-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5567.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2022Q3,ok,2022-07-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5349.0,0.0,0.0,0.0,0.0,0.0,False
 4,HashiCorp,hashicorp.com,2022Q4,ok,2022-10-02,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5072.0,0.0,0.0,0.0,0.0,0.0,False
-4,HashiCorp,hashicorp.com,2023Q1,not_fetched,2023-01-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2023Q2,not_fetched,2023-04-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2023Q3,not_fetched,2023-07-01,,False,,,,,,,,,
+4,HashiCorp,hashicorp.com,2023Q1,ok,2023-01-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5188.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2023Q2,ok,2023-04-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5021.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2023Q3,ok,2023-07-01,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5454.0,0.0,0.0,0.0,0.0,0.0,False
 4,HashiCorp,hashicorp.com,2023Q4,ok,2023-10-02,hashicorp.com,False,en,HashiCorp: Infrastructure enables innovation,5790.0,0.0,0.0,0.0,0.0,0.0,False
-4,HashiCorp,hashicorp.com,2024Q1,not_fetched,2024-01-02,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2024Q2,not_fetched,2024-04-02,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2024Q3,not_fetched,2024-07-01,,False,,,,,,,,,
+4,HashiCorp,hashicorp.com,2024Q1,ok,2024-01-02,hashicorp.com,False,en,HashiCorp,11700.0,4.0,0.0,0.0,0.0,4.0,True
+4,HashiCorp,hashicorp.com,2024Q2,ok,2024-04-02,hashicorp.com,False,en,HashiCorp,11844.0,4.0,0.0,0.0,0.0,4.0,True
+4,HashiCorp,hashicorp.com,2024Q3,ok,2024-07-01,hashicorp.com,False,en,HashiCorp | The Infrastructure Cloud Company,10030.0,0.0,0.0,0.0,0.0,0.0,False
 4,HashiCorp,hashicorp.com,2024Q4,ok,2024-10-01,hashicorp.com,False,en,HashiCorp | The Infrastructure Cloud Company,10555.0,0.0,0.0,0.0,0.0,0.0,False
-4,HashiCorp,hashicorp.com,2025Q1,not_fetched,2025-01-01,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2025Q2,not_fetched,2025-04-25,,False,,,,,,,,,
-4,HashiCorp,hashicorp.com,2025Q3,not_fetched,2025-07-10,,False,,,,,,,,,
+4,HashiCorp,hashicorp.com,2025Q1,ok,2025-01-01,hashicorp.com,False,en,HashiCorp | The Infrastructure Cloud Company,6970.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2025Q2,ok,2025-04-25,hashicorp.com,False,en,HashiCorp | An IBM Company,6716.0,0.0,0.0,0.0,0.0,0.0,False
+4,HashiCorp,hashicorp.com,2025Q3,ok,2025-07-10,hashicorp.com,False,en,HashiCorp | An IBM Company,6628.0,0.0,0.0,0.0,0.0,0.0,False
 4,HashiCorp,hashicorp.com,2025Q4,no_capture,,,False,,,,,,,,,
 5,Toast,pos.toasttab.com,2019Q1,no_capture,,,False,,,,,,,,,
 5,Toast,pos.toasttab.com,2019Q2,no_capture,,,False,,,,,,,,,
@@ -139,143 +139,143 @@ rank,company,homepage,quarter,status,capture_date,final_host,redirected,html_lan
 5,Toast,pos.toasttab.com,2025Q2,no_capture,,,False,,,,,,,,,
 5,Toast,pos.toasttab.com,2025Q3,no_capture,,,False,,,,,,,,,
 5,Toast,pos.toasttab.com,2025Q4,no_capture,,,False,,,,,,,,,
-6,Plaid,plaid.com,2019Q1,not_fetched,2019-01-04,,False,,,,,,,,,
-6,Plaid,plaid.com,2019Q2,not_fetched,2019-04-02,,False,,,,,,,,,
-6,Plaid,plaid.com,2019Q3,not_fetched,2019-07-03,,False,,,,,,,,,
+6,Plaid,plaid.com,2019Q1,ok,2019-01-04,plaid.com,False,en,Homepage - Plaid,4050.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2019Q2,ok,2019-04-02,plaid.com,False,en,Homepage - Plaid,4222.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2019Q3,ok,2019-07-03,plaid.com,False,en,Homepage - Plaid,4576.0,0.0,0.0,0.0,0.0,0.0,False
 6,Plaid,plaid.com,2019Q4,ok,2019-10-01,plaid.com,False,en,Homepage - Plaid,4642.0,0.0,0.0,0.0,0.0,0.0,False
-6,Plaid,plaid.com,2020Q1,not_fetched,2020-01-07,,False,,,,,,,,,
-6,Plaid,plaid.com,2020Q2,not_fetched,2020-04-02,,False,,,,,,,,,
-6,Plaid,plaid.com,2020Q3,not_fetched,2020-07-13,,False,,,,,,,,,
+6,Plaid,plaid.com,2020Q1,ok,2020-01-07,plaid.com,False,en,Homepage - Plaid,4719.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2020Q2,ok,2020-04-02,plaid.com,False,en,Homepage - Plaid,5197.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2020Q3,ok,2020-07-13,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5331.0,0.0,0.0,0.0,0.0,0.0,False
 6,Plaid,plaid.com,2020Q4,ok,2020-10-03,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,6518.0,0.0,0.0,0.0,0.0,0.0,False
-6,Plaid,plaid.com,2021Q1,not_fetched,2021-01-03,,False,,,,,,,,,
-6,Plaid,plaid.com,2021Q2,not_fetched,2021-04-07,,False,,,,,,,,,
-6,Plaid,plaid.com,2021Q3,not_fetched,2021-07-01,,False,,,,,,,,,
+6,Plaid,plaid.com,2021Q1,ok,2021-01-03,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5229.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2021Q2,ok,2021-04-07,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5656.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2021Q3,ok,2021-07-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5600.0,0.0,0.0,0.0,0.0,0.0,False
 6,Plaid,plaid.com,2021Q4,ok,2021-10-02,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,6738.0,0.0,0.0,0.0,0.0,0.0,False
-6,Plaid,plaid.com,2022Q1,not_fetched,2022-01-02,,False,,,,,,,,,
-6,Plaid,plaid.com,2022Q2,not_fetched,2022-04-01,,False,,,,,,,,,
-6,Plaid,plaid.com,2022Q3,not_fetched,2022-07-01,,False,,,,,,,,,
+6,Plaid,plaid.com,2022Q1,ok,2022-01-02,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,6738.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2022Q2,ok,2022-04-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,6737.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2022Q3,ok,2022-07-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,6916.0,0.0,0.0,0.0,0.0,0.0,False
 6,Plaid,plaid.com,2022Q4,ok,2022-10-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,6910.0,0.0,0.0,0.0,0.0,0.0,False
-6,Plaid,plaid.com,2023Q1,not_fetched,2023-01-03,,False,,,,,,,,,
-6,Plaid,plaid.com,2023Q2,not_fetched,2023-04-01,,False,,,,,,,,,
-6,Plaid,plaid.com,2023Q3,not_fetched,2023-07-01,,False,,,,,,,,,
+6,Plaid,plaid.com,2023Q1,ok,2023-01-03,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,7010.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2023Q2,ok,2023-04-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5870.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2023Q3,ok,2023-07-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5801.0,0.0,0.0,0.0,0.0,0.0,False
 6,Plaid,plaid.com,2023Q4,ok,2023-10-03,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,4370.0,0.0,0.0,0.0,0.0,0.0,False
-6,Plaid,plaid.com,2024Q1,not_fetched,2024-01-02,,False,,,,,,,,,
-6,Plaid,plaid.com,2024Q2,not_fetched,2024-04-01,,False,,,,,,,,,
-6,Plaid,plaid.com,2024Q3,not_fetched,2024-07-02,,False,,,,,,,,,
+6,Plaid,plaid.com,2024Q1,ok,2024-01-02,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,4914.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2024Q2,ok,2024-04-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5006.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2024Q3,ok,2024-07-02,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5064.0,0.0,0.0,0.0,0.0,0.0,False
 6,Plaid,plaid.com,2024Q4,ok,2024-10-01,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,4996.0,0.0,0.0,0.0,0.0,0.0,False
-6,Plaid,plaid.com,2025Q1,not_fetched,2025-01-03,,False,,,,,,,,,
-6,Plaid,plaid.com,2025Q2,not_fetched,2025-04-02,,False,,,,,,,,,
-6,Plaid,plaid.com,2025Q3,not_fetched,2025-07-05,,False,,,,,,,,,
+6,Plaid,plaid.com,2025Q1,ok,2025-01-03,plaid.com,False,en,Enabling all companies to build fintech solutions,5340.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2025Q2,ok,2025-04-02,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions | Plaid,5176.0,0.0,0.0,0.0,0.0,0.0,False
+6,Plaid,plaid.com,2025Q3,ok,2025-07-05,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5346.0,0.0,0.0,0.0,0.0,0.0,False
 6,Plaid,plaid.com,2025Q4,ok,2025-10-02,plaid.com,False,en,Plaid: Enabling all companies to build fintech solutions,5572.0,0.0,0.0,0.0,0.0,0.0,False
-7,Figma,figma.com,2019Q1,not_fetched,2019-01-04,,False,,,,,,,,,
-7,Figma,figma.com,2019Q2,not_fetched,2019-04-01,,False,,,,,,,,,
-7,Figma,figma.com,2019Q3,not_fetched,2019-07-02,,False,,,,,,,,,
+7,Figma,figma.com,2019Q1,ok,2019-01-04,figma.com,False,,Figma: the collaborative interface design tool.,2338.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2019Q2,ok,2019-04-01,figma.com,False,,Figma: the collaborative interface design tool.,2913.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2019Q3,ok,2019-07-02,figma.com,False,,Figma: the collaborative interface design tool.,2923.0,0.0,0.0,0.0,0.0,0.0,False
 7,Figma,figma.com,2019Q4,ok,2019-10-02,figma.com,False,,Figma: the collaborative interface design tool.,3047.0,0.0,0.0,0.0,0.0,0.0,False
-7,Figma,figma.com,2020Q1,not_fetched,2020-01-06,,False,,,,,,,,,
-7,Figma,figma.com,2020Q2,not_fetched,2020-04-01,,False,,,,,,,,,
-7,Figma,figma.com,2020Q3,not_fetched,2020-07-01,,False,,,,,,,,,
+7,Figma,figma.com,2020Q1,ok,2020-01-06,figma.com,False,,Figma: the collaborative interface design tool.,2436.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2020Q2,ok,2020-04-01,figma.com,False,,Figma: the collaborative interface design tool.,2444.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2020Q3,ok,2020-07-01,figma.com,False,,Figma: the collaborative interface design tool.,2500.0,0.0,0.0,0.0,0.0,0.0,False
 7,Figma,figma.com,2020Q4,ok,2020-10-01,figma.com,False,en-US,Figma: the collaborative interface design tool.,2667.0,0.0,0.0,0.0,0.0,0.0,False
-7,Figma,figma.com,2021Q1,not_fetched,2021-01-02,,False,,,,,,,,,
-7,Figma,figma.com,2021Q2,not_fetched,2021-04-02,,False,,,,,,,,,
-7,Figma,figma.com,2021Q3,not_fetched,2021-07-02,,False,,,,,,,,,
+7,Figma,figma.com,2021Q1,ok,2021-01-02,figma.com,False,en-US,Figma: the collaborative interface design tool.,2675.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2021Q2,ok,2021-04-02,figma.com,False,en-US,Figma: the collaborative interface design tool.,2688.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2021Q3,ok,2021-07-02,figma.com,False,en-US,Figma: the collaborative interface design tool.,2469.0,0.0,0.0,0.0,0.0,0.0,False
 7,Figma,figma.com,2021Q4,ok,2021-10-01,figma.com,False,en-US,Figma: the collaborative interface design tool.,4555.0,0.0,0.0,0.0,0.0,0.0,False
-7,Figma,figma.com,2022Q1,not_fetched,2022-01-04,,False,,,,,,,,,
-7,Figma,figma.com,2022Q2,not_fetched,2022-04-01,,False,,,,,,,,,
-7,Figma,figma.com,2022Q3,not_fetched,2022-07-02,,False,,,,,,,,,
+7,Figma,figma.com,2022Q1,ok,2022-01-04,figma.com,False,en-US,Figma: the collaborative interface design tool.,4581.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2022Q2,ok,2022-04-01,figma.com,False,en,Figma: the collaborative interface design tool.,4669.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2022Q3,ok,2022-07-02,figma.com,False,en,Figma: the collaborative interface design tool.,4669.0,0.0,0.0,0.0,0.0,0.0,False
 7,Figma,figma.com,2022Q4,ok,2022-10-01,figma.com,False,en,Figma: the collaborative interface design tool.,4702.0,0.0,0.0,0.0,0.0,0.0,False
-7,Figma,figma.com,2023Q1,not_fetched,2023-01-01,,False,,,,,,,,,
-7,Figma,figma.com,2023Q2,not_fetched,2023-04-01,,False,,,,,,,,,
-7,Figma,figma.com,2023Q3,not_fetched,2023-07-01,,False,,,,,,,,,
+7,Figma,figma.com,2023Q1,ok,2023-01-01,figma.com,False,en,Figma: the collaborative interface design tool.,4728.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2023Q2,ok,2023-04-01,figma.com,False,en,Figma: the collaborative interface design tool.,4776.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2023Q3,ok,2023-07-01,figma.com,False,en,Figma: The Collaborative Interface Design Tool,2499.0,0.0,0.0,0.0,0.0,0.0,False
 7,Figma,figma.com,2023Q4,thin_text,2023-10-02,figma.com,False,,Figma: The Collaborative Interface Design Tool,46.0,0.0,0.0,0.0,0.0,0.0,False
-7,Figma,figma.com,2024Q1,not_fetched,2024-01-04,,False,,,,,,,,,
-7,Figma,figma.com,2024Q2,not_fetched,2024-04-01,,False,,,,,,,,,
-7,Figma,figma.com,2024Q3,not_fetched,2024-07-01,,False,,,,,,,,,
+7,Figma,figma.com,2024Q1,ok,2024-01-04,figma.com,False,,Figma: The Collaborative Interface Design Tool,3226.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2024Q2,ok,2024-04-01,figma.com,False,,Figma: The Collaborative Interface Design Tool,3918.0,0.0,0.0,0.0,0.0,0.0,False
+7,Figma,figma.com,2024Q3,ok,2024-07-01,figma.com,False,,Figma: The Collaborative Interface Design Tool,5345.0,5.0,0.0,0.0,0.0,5.0,True
 7,Figma,figma.com,2024Q4,ok,2024-10-03,figma.com,False,,Figma: The Collaborative Interface Design Tool,5326.0,5.0,0.0,0.0,0.0,5.0,True
-7,Figma,figma.com,2025Q1,not_fetched,2025-01-01,,False,,,,,,,,,
-7,Figma,figma.com,2025Q2,not_fetched,2025-04-01,,False,,,,,,,,,
-7,Figma,figma.com,2025Q3,not_fetched,2025-07-01,,False,,,,,,,,,
+7,Figma,figma.com,2025Q1,ok,2025-01-01,figma.com,False,,Figma: The Collaborative Interface Design Tool,5463.0,5.0,0.0,0.0,0.0,5.0,True
+7,Figma,figma.com,2025Q2,ok,2025-04-01,figma.com,False,,Figma: The Collaborative Interface Design Tool,5481.0,5.0,0.0,0.0,0.0,5.0,True
+7,Figma,figma.com,2025Q3,ok,2025-07-01,figma.com,False,,Figma: The Collaborative Interface Design Tool,6076.0,6.0,0.0,0.0,0.0,6.0,True
 7,Figma,figma.com,2025Q4,ok,2025-10-01,figma.com,False,,Figma: The Collaborative Interface Design Tool,6388.0,11.0,0.0,0.0,0.0,11.0,True
-8,ServiceTitan,servicetitan.com,2019Q1,not_fetched,2019-01-29,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2019Q2,not_fetched,2019-04-07,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2019Q3,not_fetched,2019-07-13,,False,,,,,,,,,
+8,ServiceTitan,servicetitan.com,2019Q1,ok,2019-01-29,servicetitan.com,False,en,ServiceTitan | Field Service Management Software & Mobile App,4105.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2019Q2,ok,2019-04-07,servicetitan.com,False,en,ServiceTitan | Home Service Management Software & Mobile App,4138.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2019Q3,ok,2019-07-13,servicetitan.com,False,en,ServiceTitan | Home Service Management Software & Mobile App,4184.0,0.0,0.0,0.0,0.0,0.0,False
 8,ServiceTitan,servicetitan.com,2019Q4,ok,2019-10-15,servicetitan.com,False,en,ServiceTitan | Home Service Management Software & Mobile App,4468.0,0.0,0.0,0.0,0.0,0.0,False
-8,ServiceTitan,servicetitan.com,2020Q1,not_fetched,2020-01-05,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2020Q2,not_fetched,2020-04-02,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2020Q3,not_fetched,2020-07-09,,False,,,,,,,,,
+8,ServiceTitan,servicetitan.com,2020Q1,ok,2020-01-05,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,4551.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2020Q2,ok,2020-04-02,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,5401.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2020Q3,ok,2020-07-09,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,6499.0,0.0,0.0,0.0,0.0,0.0,False
 8,ServiceTitan,servicetitan.com,2020Q4,ok,2020-10-01,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,6744.0,0.0,0.0,0.0,0.0,0.0,False
-8,ServiceTitan,servicetitan.com,2021Q1,not_fetched,2021-01-02,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2021Q2,not_fetched,2021-04-14,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2021Q3,not_fetched,2021-07-01,,False,,,,,,,,,
+8,ServiceTitan,servicetitan.com,2021Q1,ok,2021-01-02,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,6772.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2021Q2,ok,2021-04-14,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,13323.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2021Q3,ok,2021-07-01,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,15609.0,0.0,0.0,0.0,0.0,0.0,False
 8,ServiceTitan,servicetitan.com,2021Q4,ok,2021-10-01,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,10164.0,0.0,0.0,0.0,0.0,0.0,False
-8,ServiceTitan,servicetitan.com,2022Q1,not_fetched,2022-01-04,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2022Q2,not_fetched,2022-04-01,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2022Q3,not_fetched,2022-07-02,,False,,,,,,,,,
+8,ServiceTitan,servicetitan.com,2022Q1,ok,2022-01-04,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,8087.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2022Q2,ok,2022-04-01,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,12702.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2022Q3,ok,2022-07-02,servicetitan.com,False,en,ServiceTitan: Home and Commercial Services Management Software,4296.0,0.0,0.0,0.0,0.0,0.0,False
 8,ServiceTitan,servicetitan.com,2022Q4,ok,2022-10-02,servicetitan.com,False,en,ServiceTitan — Home and Commercial Software for the Trades,7343.0,0.0,0.0,0.0,0.0,0.0,False
-8,ServiceTitan,servicetitan.com,2023Q1,not_fetched,2023-01-01,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2023Q2,not_fetched,2023-04-03,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2023Q3,not_fetched,2023-07-03,,False,,,,,,,,,
+8,ServiceTitan,servicetitan.com,2023Q1,ok,2023-01-01,servicetitan.com,False,en,ServiceTitan — Home and Commercial Software for the Trades,8075.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2023Q2,ok,2023-04-03,servicetitan.com,False,en,ServiceTitan — Home and Commercial Software for the Trades,9986.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2023Q3,ok,2023-07-03,servicetitan.com,False,en,ServiceTitan — Home and Commercial Software for the Trades,9921.0,0.0,0.0,0.0,0.0,0.0,False
 8,ServiceTitan,servicetitan.com,2023Q4,ok,2023-10-02,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,9970.0,0.0,0.0,0.0,0.0,0.0,False
-8,ServiceTitan,servicetitan.com,2024Q1,not_fetched,2024-01-05,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2024Q2,not_fetched,2024-04-02,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2024Q3,not_fetched,2024-07-01,,False,,,,,,,,,
+8,ServiceTitan,servicetitan.com,2024Q1,ok,2024-01-05,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,10124.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2024Q2,ok,2024-04-02,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,10338.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2024Q3,ok,2024-07-01,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,3775.0,0.0,0.0,0.0,0.0,0.0,False
 8,ServiceTitan,servicetitan.com,2024Q4,ok,2024-10-02,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,2228.0,0.0,0.0,0.0,0.0,0.0,False
-8,ServiceTitan,servicetitan.com,2025Q1,not_fetched,2025-01-05,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2025Q2,not_fetched,2025-04-01,,False,,,,,,,,,
-8,ServiceTitan,servicetitan.com,2025Q3,not_fetched,2025-07-01,,False,,,,,,,,,
+8,ServiceTitan,servicetitan.com,2025Q1,ok,2025-01-05,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,10427.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2025Q2,ok,2025-04-01,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,10480.0,0.0,0.0,0.0,0.0,0.0,False
+8,ServiceTitan,servicetitan.com,2025Q3,ok,2025-07-01,servicetitan.com,False,,,9505.0,0.0,0.0,0.0,0.0,0.0,False
 8,ServiceTitan,servicetitan.com,2025Q4,ok,2025-10-01,servicetitan.com,False,en,ServiceTitan - Home and Commercial Software for the Trades,7206.0,0.0,0.0,0.0,0.0,0.0,False
-9,Checkout.com,checkout.com,2019Q1,not_fetched,2019-01-15,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2019Q2,not_fetched,2019-04-05,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2019Q3,not_fetched,2019-07-08,,False,,,,,,,,,
+9,Checkout.com,checkout.com,2019Q1,ok,2019-01-15,checkout.com,False,en,Global payment solution for websites & apps | Checkout.com,4169.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2019Q2,ok,2019-04-05,checkout.com,False,en,Global payment solution for websites & apps | Checkout.com,5307.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2019Q3,ok,2019-07-08,checkout.com,False,en,Global payment solution for websites & apps | Checkout.com,4263.0,0.0,0.0,0.0,0.0,0.0,False
 9,Checkout.com,checkout.com,2019Q4,ok,2019-10-13,checkout.com,False,en,Global payment solution for websites & apps | Checkout.com,4313.0,0.0,0.0,0.0,0.0,0.0,False
-9,Checkout.com,checkout.com,2020Q1,not_fetched,2020-02-19,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2020Q2,not_fetched,2020-05-11,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2020Q3,not_fetched,2020-07-06,,False,,,,,,,,,
+9,Checkout.com,checkout.com,2020Q1,ok,2020-02-19,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,4557.0,0.0,1.0,1.0,0.0,2.0,True
+9,Checkout.com,checkout.com,2020Q2,ok,2020-05-11,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,4530.0,0.0,1.0,1.0,0.0,2.0,True
+9,Checkout.com,checkout.com,2020Q3,ok,2020-07-06,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,4839.0,0.0,1.0,1.0,0.0,2.0,True
 9,Checkout.com,checkout.com,2020Q4,thin_text,2020-10-02,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,68.0,0.0,0.0,0.0,0.0,0.0,False
-9,Checkout.com,checkout.com,2021Q1,not_fetched,2021-01-10,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2021Q2,not_fetched,2021-04-01,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2021Q3,not_fetched,2021-07-08,,False,,,,,,,,,
+9,Checkout.com,checkout.com,2021Q1,thin_text,2021-01-10,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,68.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2021Q2,thin_text,2021-04-01,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,68.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2021Q3,ok,2021-07-08,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,4399.0,0.0,0.0,0.0,0.0,0.0,False
 9,Checkout.com,checkout.com,2021Q4,ok,2021-10-04,checkout.com,False,en-us,Accept Payments Online with Checkout.com - Global Payment Processing,4670.0,0.0,0.0,0.0,0.0,0.0,False
-9,Checkout.com,checkout.com,2022Q1,not_fetched,2022-01-17,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2022Q2,not_fetched,2022-04-01,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2022Q3,not_fetched,2022-07-04,,False,,,,,,,,,
+9,Checkout.com,checkout.com,2022Q1,ok,2022-01-17,checkout.com,False,en-us,Accept Payments Online with Checkout.com - Global Payment Processing,5204.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2022Q2,ok,2022-04-01,checkout.com,False,en-us,Accept Payments Online with Checkout.com - Global Payment Processing,5417.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2022Q3,ok,2022-07-04,checkout.com,False,en-us,Accept Payments Online with Checkout.com - Global Payment Processing,5426.0,0.0,0.0,0.0,0.0,0.0,False
 9,Checkout.com,checkout.com,2022Q4,ok,2022-10-07,checkout.com,False,en-us,Accept Payments Online with Checkout.com - Global Payment Processing,5781.0,0.0,0.0,0.0,0.0,0.0,False
-9,Checkout.com,checkout.com,2023Q1,not_fetched,2023-01-05,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2023Q2,not_fetched,2023-04-05,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2023Q3,not_fetched,2023-07-02,,False,,,,,,,,,
+9,Checkout.com,checkout.com,2023Q1,ok,2023-01-05,checkout.com,False,default,Accept Payments Online with Checkout.com - Global Payment Processing,5717.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2023Q2,ok,2023-04-05,checkout.com,False,default,Accept Payments Online with Checkout.com - Global Payment Processing,5514.0,0.0,0.0,0.0,0.0,0.0,False
+9,Checkout.com,checkout.com,2023Q3,ok,2023-07-02,checkout.com,False,default,Payment processing for global digital businesses - Checkout.com,10434.0,0.0,0.0,0.0,0.0,0.0,False
 9,Checkout.com,checkout.com,2023Q4,ok,2023-10-01,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,13015.0,1.0,0.0,0.0,0.0,1.0,True
-9,Checkout.com,checkout.com,2024Q1,not_fetched,2024-01-01,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2024Q2,not_fetched,2024-04-01,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2024Q3,not_fetched,2024-07-03,,False,,,,,,,,,
+9,Checkout.com,checkout.com,2024Q1,ok,2024-01-01,checkout.com,False,en,Accept Payments Online with Checkout.com - Global Payment Processing,11814.0,2.0,0.0,0.0,0.0,2.0,True
+9,Checkout.com,checkout.com,2024Q2,ok,2024-04-01,checkout.com,False,en,Payment services to power your performance | Checkout.com,11683.0,2.0,0.0,0.0,0.0,2.0,True
+9,Checkout.com,checkout.com,2024Q3,ok,2024-07-03,checkout.com,False,en,Payment services to power your performance | Checkout.com,13287.0,5.0,1.0,0.0,0.0,6.0,True
 9,Checkout.com,checkout.com,2024Q4,ok,2024-10-02,checkout.com,False,en,Payment services to power your performance | Checkout.com,13467.0,5.0,1.0,0.0,0.0,6.0,True
-9,Checkout.com,checkout.com,2025Q1,not_fetched,2025-01-01,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2025Q2,not_fetched,2025-04-05,,False,,,,,,,,,
-9,Checkout.com,checkout.com,2025Q3,not_fetched,2025-07-03,,False,,,,,,,,,
+9,Checkout.com,checkout.com,2025Q1,ok,2025-01-01,checkout.com,False,en,Payment services to power your performance | Checkout.com,13496.0,5.0,1.0,0.0,0.0,6.0,True
+9,Checkout.com,checkout.com,2025Q2,ok,2025-04-05,checkout.com,False,en,Payment services to power your performance | Checkout.com,13770.0,5.0,1.0,0.0,0.0,6.0,True
+9,Checkout.com,checkout.com,2025Q3,ok,2025-07-03,checkout.com,False,en,Payment services to power your performance | Checkout.com,13977.0,7.0,2.0,0.0,0.0,9.0,True
 9,Checkout.com,checkout.com,2025Q4,ok,2025-10-01,checkout.com,False,en,Payment services to power your performance | Checkout.com,12934.0,7.0,1.0,0.0,0.0,8.0,True
-10,Freshworks,freshworks.com,2019Q1,not_fetched,2019-01-23,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2019Q2,not_fetched,2019-04-02,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2019Q3,not_fetched,2019-07-04,,False,,,,,,,,,
+10,Freshworks,freshworks.com,2019Q1,ok,2019-01-23,freshworks.com,False,,Refreshing Cloud Business Software | SaaS | Freshworks Inc.,4463.0,0.0,0.0,0.0,0.0,0.0,False
+10,Freshworks,freshworks.com,2019Q2,ok,2019-04-02,freshworks.com,False,,Refreshing Cloud Business Software | SaaS | Freshworks Inc.,4572.0,0.0,0.0,0.0,0.0,0.0,False
+10,Freshworks,freshworks.com,2019Q3,ok,2019-07-04,freshworks.com,False,en,A fresh approach to customer engagement,5610.0,0.0,0.0,0.0,0.0,0.0,False
 10,Freshworks,freshworks.com,2019Q4,ok,2019-10-19,freshworks.com,False,en,A fresh approach to customer engagement,9166.0,0.0,0.0,0.0,0.0,0.0,False
-10,Freshworks,freshworks.com,2020Q1,not_fetched,2020-01-13,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2020Q2,not_fetched,2020-04-02,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2020Q3,not_fetched,2020-07-16,,False,,,,,,,,,
+10,Freshworks,freshworks.com,2020Q1,ok,2020-01-13,freshworks.com,False,en,A fresh approach to customer engagement,10041.0,1.0,0.0,0.0,0.0,1.0,True
+10,Freshworks,freshworks.com,2020Q2,ok,2020-04-02,freshworks.com,False,en,A fresh approach to customer engagement,10323.0,1.0,0.0,0.0,0.0,1.0,True
+10,Freshworks,freshworks.com,2020Q3,ok,2020-07-16,freshworks.com,False,en,A fresh approach to customer engagement,11076.0,2.0,0.0,0.0,0.0,2.0,True
 10,Freshworks,freshworks.com,2020Q4,ok,2020-10-03,freshworks.com,False,en,A fresh approach to customer engagement,10846.0,2.0,0.0,0.0,0.0,2.0,True
-10,Freshworks,freshworks.com,2021Q1,not_fetched,2021-01-06,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2021Q2,not_fetched,2021-04-03,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2021Q3,not_fetched,2021-07-01,,False,,,,,,,,,
+10,Freshworks,freshworks.com,2021Q1,ok,2021-01-06,freshworks.com,False,en,A fresh approach to customer engagement,11005.0,7.0,0.0,0.0,0.0,7.0,True
+10,Freshworks,freshworks.com,2021Q2,ok,2021-04-03,freshworks.com,False,en,A fresh approach to customer engagement,10086.0,4.0,0.0,0.0,0.0,4.0,True
+10,Freshworks,freshworks.com,2021Q3,ok,2021-07-01,freshworks.com,False,en,A fresh approach to customer engagement,10309.0,4.0,0.0,0.0,0.0,4.0,True
 10,Freshworks,freshworks.com,2021Q4,ok,2021-10-01,freshworks.com,False,en,Freshworks | Modern and Easy Customer and Employee Experience Software,11942.0,4.0,0.0,0.0,0.0,4.0,True
-10,Freshworks,freshworks.com,2022Q1,not_fetched,2022-01-03,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2022Q2,not_fetched,2022-04-04,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2022Q3,not_fetched,2022-07-01,,False,,,,,,,,,
+10,Freshworks,freshworks.com,2022Q1,ok,2022-01-03,freshworks.com,False,en,Freshworks | Modern and Easy Customer and Employee Experience Software,12135.0,2.0,0.0,0.0,0.0,2.0,True
+10,Freshworks,freshworks.com,2022Q2,ok,2022-04-04,freshworks.com,False,en,Freshworks | Modern and Easy Customer and Employee Experience Software,11231.0,2.0,0.0,0.0,0.0,2.0,True
+10,Freshworks,freshworks.com,2022Q3,ok,2022-07-01,freshworks.com,False,en,Freshworks | Modern and Easy Customer and Employee Experience Software,6620.0,2.0,0.0,0.0,0.0,2.0,True
 10,Freshworks,freshworks.com,2022Q4,ok,2022-10-02,freshworks.com,False,en,Freshworks | Modern and Easy Customer and Employee Experience Software,6743.0,2.0,0.0,0.0,0.0,2.0,True
-10,Freshworks,freshworks.com,2023Q1,not_fetched,2023-01-02,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2023Q2,not_fetched,2023-04-03,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2023Q3,not_fetched,2023-07-01,,False,,,,,,,,,
+10,Freshworks,freshworks.com,2023Q1,ok,2023-01-02,freshworks.com,False,en,Freshworks | Modern and Easy Customer and Employee Experience Software,6749.0,2.0,0.0,0.0,0.0,2.0,True
+10,Freshworks,freshworks.com,2023Q2,ok,2023-04-03,freshworks.com,False,en-US,Innovative Software for Business Needs | Freshworks,5012.0,8.0,0.0,1.0,0.0,9.0,True
+10,Freshworks,freshworks.com,2023Q3,ok,2023-07-01,freshworks.com,False,en-US,Innovative Software for Business Needs | Freshworks,5352.0,11.0,0.0,1.0,0.0,12.0,True
 10,Freshworks,freshworks.com,2023Q4,ok,2023-10-09,freshworks.com,False,en-US,Innovative Software for Business Needs | Freshworks,5733.0,20.0,0.0,1.0,4.0,25.0,True
-10,Freshworks,freshworks.com,2024Q1,not_fetched,2024-01-03,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2024Q2,not_fetched,2024-04-01,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2024Q3,not_fetched,2024-07-01,,False,,,,,,,,,
+10,Freshworks,freshworks.com,2024Q1,ok,2024-01-03,freshworks.com,False,en-US,Innovative Software for Business Needs | Freshworks,5728.0,21.0,0.0,0.0,4.0,25.0,True
+10,Freshworks,freshworks.com,2024Q2,ok,2024-04-01,freshworks.com,False,en-US,Innovative Software for Business Needs | Freshworks,6003.0,24.0,0.0,0.0,5.0,29.0,True
+10,Freshworks,freshworks.com,2024Q3,ok,2024-07-01,freshworks.com,False,en,"Freshworks: Streamlined Solutions | Customer Service, IT, Sales",6190.0,22.0,0.0,0.0,5.0,27.0,True
 10,Freshworks,freshworks.com,2024Q4,fetch_failed,2024-10-03,freshworks.com,False,,,,,,,,,
-10,Freshworks,freshworks.com,2025Q1,not_fetched,2025-01-02,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2025Q2,not_fetched,2025-04-01,,False,,,,,,,,,
-10,Freshworks,freshworks.com,2025Q3,not_fetched,2025-07-01,,False,,,,,,,,,
+10,Freshworks,freshworks.com,2025Q1,ok,2025-01-02,freshworks.com,False,en,"Freshworks: Streamlined Solutions | Customer Service, IT, Sales",6026.0,34.0,0.0,0.0,5.0,39.0,True
+10,Freshworks,freshworks.com,2025Q2,ok,2025-04-01,freshworks.com,False,en,"Freshworks: Uncomplicated Software | IT Service, Customer Service",6437.0,38.0,0.0,0.0,4.0,42.0,True
+10,Freshworks,freshworks.com,2025Q3,ok,2025-07-01,freshworks.com,False,en,"Freshworks: Uncomplicated Software | IT Service, Customer Service",3885.0,15.0,0.0,0.0,0.0,15.0,True
 10,Freshworks,freshworks.com,2025Q4,ok,2025-10-01,freshworks.com,False,en,"Freshworks: Uncomplicated Software | IT Service, Customer Service",4038.0,15.0,0.0,0.0,0.0,15.0,True
